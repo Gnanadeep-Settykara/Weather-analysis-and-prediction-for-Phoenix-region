@@ -1,0 +1,7 @@
+#Correlation Matrix
+
+			Precipitation	Snow		Temp_max	Temp_min
+Precipitation	 1.000000	
+Snow			 0.011846		1.000000	
+Temp_max		-0.118497		-0.027691	1.000000	
+Temp_min		-0.010170		-0.020708	0.896823	1.000000
